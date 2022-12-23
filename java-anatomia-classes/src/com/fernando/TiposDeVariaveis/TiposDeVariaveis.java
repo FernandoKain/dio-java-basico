@@ -1,4 +1,4 @@
-package com.fernando.TiposDeVariaveis;
+package com.fernando.tiposdevariaveis;
 
 public class TiposDeVariaveis {
     public static void main(String[] args) {

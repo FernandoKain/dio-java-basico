@@ -1,4 +1,4 @@
-package com.fernando.Incrementos;
+package com.fernando.incrementos;
 
 public class Incrementos {
     public static void main(String[] args) {
@@ -11,8 +11,6 @@ public class Incrementos {
         System.out.println(numero);
         numero = ++numero;
         System.out.println(numero);
-
-
 
     }
 }

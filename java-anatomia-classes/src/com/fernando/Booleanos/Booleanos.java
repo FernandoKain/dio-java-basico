@@ -1,6 +1,5 @@
-package com.fernando.Booleanos;
+package com.fernando.booleanos;
 
-import javax.swing.text.StyledEditorKit.BoldAction;
 
 public class Booleanos {
     public static void main(String[] args) {
